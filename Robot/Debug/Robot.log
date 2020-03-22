@@ -1,0 +1,72 @@
+﻿  main.cpp
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.h(119): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(116): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(117): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(118): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(122): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(123): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(126): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(127): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(128): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(131): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(132): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(133): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(136): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(137): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(138): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(141): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(142): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(143): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(163): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(165): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(169): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(288): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(299): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(310): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(321): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(351): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(728): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(813): warning C4018: '<': signed/unsigned mismatch
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(860): warning C4018: '<': signed/unsigned mismatch
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(956): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(957): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(958): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(960): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(964): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(964): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(968): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(974): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(978): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(979): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(992): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(994): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(998): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1002): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1008): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1012): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1016): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1017): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1023): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1025): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1033): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1039): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1039): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1042): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1043): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1049): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1051): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1060): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1060): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1064): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1065): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1071): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1073): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1075): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1130): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1153): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\yoel\desktop\機器人作業\ppt\shader example\robot-rx78\robot\main.cpp(1156): warning C4305: '+=': truncation from 'double' to 'float'
+  Robot.vcxproj -> C:\Users\Yoel\Desktop\機器人作業\PPT\Shader Example\Robot-RX78\Robot\Debug\Robot.exe
